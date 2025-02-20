@@ -19,11 +19,31 @@
 
 ### :man_technologist: About me
 
-I’m Dayan Perez, a software engineer and frontend developer based in Montevideo, Uruguay. I’m passionate about building software that improves people’s lives. I specialize in building performant and accessible web applications.
+Full Stack Developer passionate about building modern web applications with cutting-edge technologies. Specializing in Next.js, TypeScript, and AI integration.
 
-- `Frontend`: JavaScript, TypeScript, CSS, HTML, ReactJs, VueJs, Redux, Recoil, Styled-Components, GraphQL.
-- `Backend`: NestJs, NodeJS, Laravel.
-- `General`: Git, Npm, Yarn, SQL, MySQL, Rest API, Payment Gateways.
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaib&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 🎯 Current Focus
+- 🔭 I'm currently working on **Modern Web Applications with Next.js 14**
+- 🌱 I'm learning **Advanced TypeScript & Web Animation Techniques**
+- 👯 I'm looking to collaborate on **Full Stack Web Projects**
+- 💬 Ask me about **Next.js, React, TailwindCSS, Web Development**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahaib&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
