@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="400"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/drbarzaga/">
+    <a href="https://www.linkedin.com/in/arnold/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://dayanperez.hashnode.dev/">
+    <a href="https://dreamdeveloper.dev/">
       <img src="https://img.shields.io/badge/Personal Blog-orange?style=for-the-badge&logo=javascript&logoColor=white" alt="Personal Blog Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=drbarzaga&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://dreamdev.com/ghpvc/?username=drbarzaga&style=for-the-badge&color=blue" alt=""/>
   
   <h1>
   Welcome to my GitHub!
